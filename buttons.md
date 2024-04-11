@@ -15,7 +15,7 @@ To use a basic button, simply insert the following Blade component where you nee
 ### Preview
 
 [preview]
-x-slate::button
+<x-slate::button
 Click me
 </x-slate::button>
 [/preview]
