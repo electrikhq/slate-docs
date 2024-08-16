@@ -1,3 +1,9 @@
+---
+title: "Components"
+description: "Documentation for all components."
+sidebar_order: 3
+---
+
 # Button Component Documentation
 
 Welcome to the documentation for the Button component. This document will guide you through the usage of the Slate UI kit's button components.
