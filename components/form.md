@@ -1,7 +1,6 @@
 ---
 title: "Form"
 description: "Learn how to use the Form component in Electrik Slate UI"
-sidebar_order: 10
 ---
 
 # Form

@@ -1,7 +1,7 @@
 ---
 title: "Dark Mode Support"
 description: "Learn how to use and customize dark mode in Electrik Slate"
-sidebar_order: 3
+sidebar_order: 4
 ---
 
 # Dark Mode Support

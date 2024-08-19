@@ -1,7 +1,6 @@
 ---
 title: "Select"
 description: "Learn how to use the Select component in Electrik Slate UI"
-sidebar_order: 9
 ---
 
 # Select

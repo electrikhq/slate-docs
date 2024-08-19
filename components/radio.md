@@ -1,7 +1,6 @@
 ---
 title: "Radio"
 description: "Learn how to use the Radio component in Electrik Slate UI"
-sidebar_order: 8
 ---
 
 # Radio

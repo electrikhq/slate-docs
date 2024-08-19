@@ -1,7 +1,6 @@
 ---
 title: "Badges"
 description: "Learn how to use the Badge component in Electrik Slate UI"
-sidebar_order: 7
 ---
 
 # Badges

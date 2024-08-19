@@ -1,7 +1,6 @@
 ---
 title: "Cards"
 description: "Learn how to use the Card component in Electrik Slate UI"
-sidebar_order: 9
 ---
 
 # Cards

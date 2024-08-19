@@ -1,7 +1,6 @@
 ---
 title: "Buttons"
 description: "Learn how to use the Button component in Electrik Slate UI"
-sidebar_order: 2
 ---
 
 # Buttons

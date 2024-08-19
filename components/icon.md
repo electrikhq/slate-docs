@@ -1,7 +1,6 @@
 ---
 title: "Icon"
 description: "Learn how to use the Icon component in Electrik Slate UI"
-sidebar_order: 5
 ---
 
 # Icon

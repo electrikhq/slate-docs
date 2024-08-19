@@ -1,7 +1,6 @@
 ---
 title: "Alerts"
 description: "Learn how to use the Alert component in Electrik Slate UI"
-sidebar_order: 5
 ---
 
 # Alerts

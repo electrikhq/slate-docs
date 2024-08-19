@@ -1,7 +1,6 @@
 ---
 title: "Drawer"
 description: "Learn how to use the Drawer component in Electrik Slate UI"
-sidebar_order: 12
 ---
 
 # Drawer

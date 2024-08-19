@@ -1,7 +1,6 @@
 ---
 title: "Toggle"
 description: "Learn how to use the Toggle component in Electrik Slate UI"
-sidebar_order: 10
 ---
 
 # Toggle

@@ -1,7 +1,6 @@
 ---
 title: "Checkboxes"
 description: "Learn how to use the Checkbox component in Electrik Slate UI"
-sidebar_order: 10
 ---
 
 # Checkboxes

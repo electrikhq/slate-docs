@@ -1,7 +1,6 @@
 ---
 title: "Navbar"
 description: "Learn how to use the Navbar component in Electrik Slate UI"
-sidebar_order: 6
 ---
 
 # Navbar

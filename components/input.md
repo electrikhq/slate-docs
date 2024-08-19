@@ -1,7 +1,6 @@
 ---
 title: "Input"
 description: "Learn how to use the Input component in Electrik Slate UI"
-sidebar_order: 6
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Dropdown"
 description: "Learn how to use the Dropdown component in Electrik Slate UI"
-sidebar_order: 4
 ---
 
 # Dropdown

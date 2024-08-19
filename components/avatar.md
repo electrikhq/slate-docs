@@ -1,7 +1,6 @@
 ---
 title: "Avatars"
 description: "Learn how to use the Avatar component in Electrik Slate UI"
-sidebar_order: 8
 ---
 
 # Avatars
