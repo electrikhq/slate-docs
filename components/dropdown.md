@@ -26,10 +26,22 @@ The following example demonstrates a simple dropdown with a primary-colored trig
 
 <x-code-preview>
 @verbatim
-<x-slate::dropdown label="Actions" icon="carbon-settings" color="primary" size="md">
-    <x-slate::dropdown-item label="Edit" icon="carbon-edit" />
-    <x-slate::dropdown-item label="Delete" icon="carbon-trash-can" />
+<x-slate::dropdown label="Options" size="sm" color="black" icon="carbon-settings" position="bottom-right">
+    <x-slate::dropdown-item label="First Option" icon="carbon-user" />
+    <x-slate::dropdown-item label="Second Option" icon="carbon-user" description="This is a description." />
+    <x-slate::dropdown-item label="Third Option" icon="carbon-user" />
 </x-slate::dropdown>
+<x-slate::dropdown label="Options" size="lg" color="blue" icon="carbon-settings" position="bottom-left">
+    <x-slate::dropdown-item label="First Option" icon="carbon-user" />
+    <x-slate::dropdown-item label="Second Option" icon="carbon-user" description="This is a description." />
+    <x-slate::dropdown-item label="Third Option" icon="carbon-user" />
+</x-slate::dropdown>
+<x-slate::dropdown label="Options" size="sm" color="black" icon="carbon-settings" position="bottom-left">
+    <x-slate::dropdown-item label="Short Option" icon="carbon-user" size="sm" />
+    <x-slate::dropdown-item label="This is a very long option that should not break into multiple lines" icon="carbon-user" size="sm" />
+    <x-slate::dropdown-item label="Another Option" icon="carbon-user" size="sm" />
+</x-slate::dropdown>
+
 @endverbatim
 </x-code-preview>
 
@@ -39,7 +51,7 @@ This example showcases dropdowns using explicit black and white modes, which ada
 
 <x-code-preview>
 @verbatim
-<x-slate::dropdown label="Settings" icon="carbon-settings" color="black" size="md">
+<x-slate::dropdown label="Settings" icon="carbon-settings" color="black" size="xs">
     <x-slate::dropdown-item label="Profile" icon="carbon-user-avatar" />
     <x-slate::dropdown-item label="Logout" icon="carbon-logout" />
 </x-slate::dropdown>

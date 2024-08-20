@@ -62,7 +62,7 @@ This example shows a card with an icon in the header:
 
 <x-code-preview>
 @verbatim
-<x-slate::card header="Notifications" icon="carbon-notification">
+<x-slate::card header="Notifications" icon="carbon-notification" outlined>
     You have 3 new notifications.
 </x-slate::card>
 @endverbatim
