@@ -13,3 +13,4 @@ Electrik Slate - Laravel UI Kit is a comprehensive user interface kit featuring 
 <a href="{{ url('demo/slate/dashboard') }}" target=_blank>Demo</a> &middot; <a href="{{ url('docs/slate/master') }}">Documenation</a>
 
 
+
