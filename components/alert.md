@@ -16,7 +16,7 @@ The `Alert` component in Electrik Slate UI is a versatile notification element t
 | `icon`       | String  | `null`  | An optional icon to display within the alert.                                                             |
 | `color`      | String  | `blue`  | The color of the alert (`primary`, `secondary`, `success`, `danger`, `warning`, `info`, `black`, `white`).|
 | `outlined`   | Boolean | `false` | Whether the alert should have an outlined style.                                                          |
-| `fullWidth`  | Boolean | `false` | Whether the alert should span the full width of its container.                                            |
+| `full-width`  | Boolean | `false` | Whether the alert should span the full width of its container.                                            |
 
 ## Examples
 
@@ -26,7 +26,13 @@ The following example demonstrates a simple alert with a blue background and def
 
 <x-code-preview>
 @verbatim
-<x-slate::alert color="blue">
+<x-slate::alert>
+    This is an default neutral alert.
+</x-slate::alert>
+<x-slate::alert outlined class="mt-4" size="sm" dismissible>
+    This is an default outlined small dismissible alert.
+</x-slate::alert>
+<x-slate::alert class="mt-4" color="blue">
     This is an informational alert.
 </x-slate::alert>
 @endverbatim
@@ -65,8 +71,7 @@ You can create outlined and full-width alerts using the `outlined` and `fullWidt
 <x-slate::alert color="warning" outlined>
     This is a warning alert with an outlined style.
 </x-slate::alert>
-
-<x-slate::alert color="info" fullWidth>
+<x-slate::alert color="info" full-width class="mt-4">
     This alert spans the full width of its container.
 </x-slate::alert>
 @endverbatim
@@ -111,11 +116,3 @@ Example:
 </x-slate::alert>
 @endverbatim
 </x-code-preview>
-
-### Conclusion
-
-The `Alert` component in Electrik Slate is a flexible tool for notifying users of important information. With support for dark mode, various color schemes, customizable sizes, and dismissible functionality, it’s a great addition to any UI design.
-
----
-
-This documentation page includes an overview of the `Alert` component, details its props, and provides various examples, including how to handle black and white color modes. The use of `x-code-preview` helps illustrate the code and its resulting output clearly within your documentation.

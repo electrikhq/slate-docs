@@ -28,7 +28,8 @@ This example demonstrates a basic radio input with a label:
 <x-code-preview>
 @verbatim
 <!-- Basic Radio Input -->
-<x-slate::radio name="example" value="option1" label="Option 1" />
+<x-slate::radio name="example[]" value="option1" label="Option 1" />
+<x-slate::radio name="example[]" value="option2" label="Option 2" help-text="Select option 2 for 2nd action" />
 @endverbatim
 </x-code-preview>
 
